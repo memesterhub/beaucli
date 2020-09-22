@@ -1,10 +1,10 @@
-# beacli
+# beaucli
 a tool for making your cli applications way more colorful!
 
 # installation
 by pip
 ```
-pip install beau-cli
+pip install beaucli
 ```
 from source code
 ```
