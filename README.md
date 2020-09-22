@@ -17,7 +17,7 @@ basically beaucli is a tool for making your command line applications better by 
 # Introduction
 ```
 import beaucli.foreground as fg
-printfgc("Hello in Red!", fg.red)
+fg.printfgc("Hello in Red!", fg.red)
 ```
 
 # Documentation
