@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setuptools.setup(
-    name="beaucli",
+    name="beau-cli",
     version="0.0.1",
     author="Hussein Amine",
     author_email="husseinraedamine56@gmail.com",
