@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="beaucli",
-    version="0.0.dev2",
+    version="0.0.dev3",
     author="Hussein Amine",
     author_email="husseinraedamine56@gmail.com",
     description="a tool for making your cli applications more colorful!",
