@@ -2,7 +2,7 @@
 a tool for making your cli applications way more colorful!
 
 # status
-- pypi ![Upload Python Package](https://github.com/memesterhub/beaucli/workflows/Upload%20Python%20Package/badge.svg)
+- ![pip](https://github.com/memesterhub/beaucli/workflows/Upload%20Python%20Package/badge.svg)
 
 # installation
 by pip
