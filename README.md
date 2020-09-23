@@ -23,5 +23,4 @@ import beaucli
 print(beaucli.fore("Hello In Red!", "red"))
 ```
 
-# Documentation
-## Coming Soon!
+# [Documentation](https://husseinraed.cf/beaucli/)
