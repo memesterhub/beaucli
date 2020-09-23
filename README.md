@@ -6,11 +6,11 @@ a tool for making your cli applications way more colorful!
 
 # installation
 by pip
-```
+```sh
 pip install beaucli
 ```
 from source code
-```
+```sh
 git clone https://github/com/memesterhub/beaucli
 python setup.py install
 ```
@@ -18,7 +18,7 @@ python setup.py install
 basically beaucli is a tool for making your command line applications better by providing you colors and some extra tools
 
 # Introduction
-```
+```py
 import beaucli
 print(beaucli.fore("Hello In Red!", "red"))
 ```
