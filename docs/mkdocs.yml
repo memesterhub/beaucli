@@ -3,6 +3,5 @@ site_name: Beaucli Documentation
 nav:
     - beaucli: index.md
     - fore: fore.md
-    - back: back.md
     - Support Us: support.md
 theme: readthedocs
