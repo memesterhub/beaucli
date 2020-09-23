@@ -17,11 +17,11 @@ python setup.py install
 * `beaucli.fore` - Foreground shell colors/styles.
 * `beaucli.back` - Background shell colors/styles.
 
-# Description
+## Description
 
 basically beaucli is a tool for making your command line applications better by providing you colors and some extra tools
 
-# Introduction
+## Introduction
 
 ```py
 import beaucli
@@ -29,6 +29,7 @@ print(beaucli.fore("Hello In Red!", "red"))
 ```
 
 ## Coming Soon!
+
 * `colors by color code` - ability to put colors by color codes
 
 # Foreground
